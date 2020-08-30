@@ -10,13 +10,13 @@ tags: vscode beautify플러그인 자동줄정렬
 
 - vscode 기본 코드정렬 단축키가 있다
 
-<img src="https://switch-coder.github.io/public/imgs/vscode-sort1.jpg" class="img">
+<img src="https://switch-coder.github.io/public/imgs/vscode_sort1.jpg" class="img">
 
 - 위 코드를 정렬해 보겠다. 우선 ctrl + a 를 눌러 전체 선택을 한다.
 
 - 전체 선택이 됐으면 ctrl 을 누른 상태에서 k 를 누른후 f 를 누르면 된다
 
-<img src="https://switch-coder.github.io/public/imgs/vscode-sort2.jpg" class="img">
+<img src="https://switch-coder.github.io/public/imgs/vscode_sort2.jpg" class="img">
 
 - 위 그림과 같이 정렬되는것을 확인 할 수 있다
 
@@ -24,7 +24,7 @@ tags: vscode beautify플러그인 자동줄정렬
 
 - 1.prettier 설치
 
-<img src="https://switch-coder.github.io/public/imgs/prettier_extenstion_install.JPG" class="img">
+<img src="https://switch-coder.github.io/public/imgs/prettier_extension_install.JPG" class="img">
 
 - 2.prettier 설정
 
