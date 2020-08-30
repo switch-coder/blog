@@ -40,15 +40,15 @@ tags: vscode beautify플러그인 자동줄정렬
 
 - 다시 검색창에 json을 입력후 edit in settings.json 클릭한다.그러면 settings.json 파일이 열린다
 
-<img src="https://switch-coder.github.io/public/imgs/prettier_setting3.jpg" class="img">
+<img src="https://switch-coder.github.io/public/imgs/prettier_setting3.JPG" class="img">
 
 - editor.formatOnSave 부분이 true 로 되어있는지 확인한다. 만약 false면 true로 바꿔준다.
   이렇게 준비는 끝났고 정렬되는 부분을 보여주겠다.
 
-<img src="https://switch-coder.github.io/public/imgs/prettier_test1.jpg" class="img">
+<img src="https://switch-coder.github.io/public/imgs/prettier_test1.JPG" class="img">
 
 - 위와 같이 테스트 코드를 작성해 보았다. 여기서 ctrl + s (저장) 버튼을 눌러 보았다.
 
-<img src="https://switch-coder.github.io/public/imgs/prettier_test2.jpg" class="img">
+<img src="https://switch-coder.github.io/public/imgs/prettier_test2.JPG" class="img">
 
 - 위와 같이 코드가 자동으로 정렬되는 것을 볼 수 있다.
