@@ -3,7 +3,7 @@ layout: post
 title: vscode 코드정렬
 comments: true
 category: Blog
-tags: vscode beautify플러그인 자동줄정렬
+tags: vscode Prettier플러그인 자동줄정렬
 ---
 
 ## vscode 자동 코드정렬
